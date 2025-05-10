@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 🎯 Aspiring Data Analyst passionate about transforming data into meaningful insights.  
 📊 Skilled in SQL, Excel, Power BI, and Python for end-to-end data analysis.  
 🎓 Continuously learning – currently building projects in analytics, visualization, and machine learning.  
-✍️ I also share data stories and learning journeys on LinkedIn and Medium.  
 ✨ Fun Fact: I believe that curiosity and consistency are key to mastering data!
